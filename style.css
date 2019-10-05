@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+​
+body {
+    background-color: red;
+}
+/* header {
+  padding: 20px;
+  margin-bottom: 20px;
+  color: #333;
+  background: #ccc;
+}
+​
+section { padding: 20px;
+    margin-bottom: 20px;
+    background: orange
+} 
+​
+#left {
+}
+​
+#middle {
+}
+​
+#right {
+}
+​
+#full { width: 100%;
+    overflow: auto;
+    clear: both;
+    background: grey
+}
+​
+#division {
+}
+​
+aside {float: left;
+    width: 33%;
+    height: 200 px;
+    padding: 20px;
+    margin-left: 30px;
+    
+}
+​
+footer {
+} */
